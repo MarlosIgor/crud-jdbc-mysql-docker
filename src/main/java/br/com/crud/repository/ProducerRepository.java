@@ -1,7 +1,7 @@
-package repository;
+package br.com.crud.repository;
 
-import conn.ConnectionFactory;
-import dominio.Producer;
+import br.com.crud.conn.ConnectionFactory;
+import br.com.crud.dominio.Producer;
 import lombok.extern.log4j.Log4j2;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

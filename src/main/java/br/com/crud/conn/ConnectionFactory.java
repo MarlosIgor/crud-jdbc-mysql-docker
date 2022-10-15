@@ -1,4 +1,4 @@
-package conn;
+package br.com.crud.conn;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

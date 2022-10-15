@@ -1,7 +1,8 @@
-package service;
+package br.com.crud.service;
 
-import dominio.Producer;
-import repository.ProducerRepository;
+import br.com.crud.dominio.Producer;
+import br.com.crud.repository.ProducerRepository;
+
 import java.util.Optional;
 import java.util.Scanner;
 

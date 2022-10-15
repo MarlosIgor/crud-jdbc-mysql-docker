@@ -1,8 +1,9 @@
-package service;
+package br.com.crud.service;
 
-import dominio.Anime;
-import dominio.Producer;
-import repository.AnimeRepository;
+import br.com.crud.dominio.Anime;
+import br.com.crud.dominio.Producer;
+import br.com.crud.repository.AnimeRepository;
+
 import java.util.Optional;
 import java.util.Scanner;
 

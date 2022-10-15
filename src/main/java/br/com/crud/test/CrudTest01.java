@@ -1,5 +1,7 @@
-import service.AnimeService;
-import service.ProducerService;
+package br.com.crud.test;
+
+import br.com.crud.service.AnimeService;
+import br.com.crud.service.ProducerService;
 import java.util.Scanner;
 
 public class CrudTest01 {

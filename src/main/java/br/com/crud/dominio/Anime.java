@@ -1,4 +1,4 @@
-package dominio;
+package br.com.crud.dominio;
 
 import lombok.Builder;
 import lombok.Value;
